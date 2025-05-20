@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+langchain-core==0.1.40
+langchain-groq==0.1.0
+python-docx
+pymongo==4.5.0
+PyPDF2
